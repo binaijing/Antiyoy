@@ -1,0 +1,327 @@
+<language name="cn_sc">
+    <!-- All characters -->
+    <string key="lang_characters" value="ö"/>
+
+    <!-- Main menu -->
+    <string key="main_menu_info" value="关于"/>
+    <string key="main_menu_exit" value="退出"/>
+    <string key="main_menu_something" value="White text about nothing"/>
+
+    <!-- Random stuff -->
+    <string key="menu_level" value="等级"/>
+    <string key="menu_reset" value="重置"/>
+    <string key="game_saved" value="游戏已保存"/>
+    <string key="city_name_one" value="gda, mi, ki, can, mos, san"/>
+    <string key="city_name_two" value="X, X, X, da, ro, lo, ta"/>
+    <string key="city_name_three" value="nsk, rra, ko, rry"/>
+
+    <!-- Info -->
+    <string key="info_back" value="返回"/>
+    <string key="info_array" value="这是一个malistic风格的
+        #迷你策略游戏.
+        #完全免费并且无内购。
+        #如果你是初次运行
+        #如果你还不知道如何玩游戏
+        #请查看教程或者帮助。
+        #
+        #这个游戏是受
+        #Sean O'Connor开发的Slay启发
+        #
+        #
+        #
+        #
+        #
+        #
+        #E-mail: yiotro93@gmail.com
+        #制作人：yiotro
+        #汉化者：至爱米兰
+		"/>
+    <string key="reset_campaign_data" value="重置数据"/>
+    <string key="special_thanks" value="对以下人员表示特别的感谢
+        #
+        #Rebecca Nöll:
+        #德语翻译者
+        #
+        #Jirka Justra:
+        #捷克语翻译者
+        #
+        #Olek Jablonski:
+        #波兰语翻译者
+        #
+        #Andrea Rinaldi:
+        #意大利语翻译者
+        #
+        #Louis Philibert-Morrissette:
+        #法语翻译者"/>
+
+    <!-- Choose game mode menu-->
+    <string key="choose_game_mode_skirmish" value="遭遇战"/>
+    <string key="choose_game_mode_tutorial" value="教程"/>
+    <string key="choose_game_mode_campaign" value="战役"/>
+    <string key="choose_game_mode_load" value="载入存档"/>
+
+    <!-- Skirmish menu -->
+    <string key="game_settings_main_menu" value="主菜单"/>
+    <string key="game_settings_tutorial" value="教程"/>
+    <string key="game_settings_start" value="开始"/>
+    <string key="map_size" value="地图尺寸"/>
+    <string key="color_number" value="颜色"/>
+    <string key="player_number" value="玩家数量"/>
+    <string key="small" value="小"/>
+    <string key="medium" value="中"/>
+    <string key="big" value="大"/>
+    <string key="ai_only" value="仅AI"/>
+    <string key="single_player" value="单人玩家"/>
+    <string key="multiplayer" value="多人玩家"/>
+    <string key="colors" value="颜色"/>
+    <string key="color" value="颜色"/>
+    <string key="difficulty" value="难度"/>
+    <string key="easy" value="简单"/>
+    <string key="normal" value="中等"/>
+    <string key="hard" value="困难"/>
+    <string key="expert" value="专家"/>
+    <string key="player_color" value="玩家颜色"/>
+
+    <!-- In game menu -->
+    <string key="in_game_menu_resume" value="返回"/>
+    <string key="in_game_menu_save" value="保存游戏"/>
+    <string key="in_game_menu_surrender" value="投降"/>
+    <string key="in_game_menu_main_menu" value="主菜单"/>
+    <string key="in_game_menu_restart" value="重新开始"/>
+    <string key="confirm_restart" value="重新开始游戏?"/>
+    <string key="cancel" value="取消"/>
+    <string key="confirm_end_turn" value="确认回合结束?"/>
+    <string key="确认" value="确认"/>
+
+    <!-- End game menu -->
+    <string key="end_game_ok" value="好的"/>
+    <string key="player" value="玩家"/>
+    <string key="ai" value="AI"/>
+    <string key="won" value="已胜利"/>
+    <string key="statistics" value="数据"/>
+    <string key="next" value="下一步"/>
+    <string key="level_complete" value="关卡完成"/>
+    <string key="win_game" value="胜利"/>
+    <string key="win_or_continue" value="取得胜利并结束游戏#或者继续玩到统一?"/>
+
+    <!-- Colors -->
+    <string key="green_player" value="绿色"/>
+    <string key="red_player" value="红色"/>
+    <string key="magenta_player" value="洋红"/>
+    <string key="cyan_player" value="靛蓝"/>
+    <string key="yellow_player" value="黄色"/>
+    <string key="gray_player" value="灰色"/>
+    <string key="green_ai" value="绿色"/>
+    <string key="red_ai" value="红色"/>
+    <string key="magenta_ai" value="洋红"/>
+    <string key="cyan_ai" value="靛蓝"/>
+    <string key="yellow_ai" value="黄色"/>
+    <string key="gray_ai" value="灰色"/>
+    <string key="green_menu" value="绿色"/>
+    <string key="red_menu" value="红色"/>
+    <string key="magenta_menu" value="洋红"/>
+    <string key="cyan_menu" value="靛蓝"/>
+    <string key="yellow_menu" value="黄色"/>
+    <string key="gray_menu" value="灰色"/>
+
+    <!-- Tutorial -->
+    <string key="normal_rules" value="普通规则"/>
+    <string key="how_to_play" value="如何进行游戏?"/>
+    <string key="tutorial_ok" value="好的"/>
+    <string key="tut_select_unit" value="选择单位"/>
+    <string key="tut_tap_on_hex" value="点击六边形"/>
+    <string key="tut_press_button" value="点击按钮"/>
+    <string key="tut_build_tower" value="建立防御塔"/>
+    <string key="tut_again" value="重复"/>
+    <string key="tut_build_spearman" value="招募矛兵"/>
+    <string key="tut_tap_to_undo" value="点击 '撤销'"/>
+    <string key="tut_tap_to_end_turn" value="点击结束回合"/>
+    <string key="tut_hold_hex" value="点击并按住"/>
+    <string key="tut_merge_units" value="合并单位"/>
+    <string key="tut_good_luck" value="祝你好运!"/>
+
+    <!-- Tutorial tips -->
+    <string key="tip_capture_with_units" value="用你的单位发起进攻#来扩展领土"/>
+    <string key="tip_about_money" value="你的领土越大#所获得的税收越高"/>
+    <string key="tip_build_towers" value="建立防御塔#来保护周边领土"/>
+    <string key="tip_about_taxes" value="越强大的单位#消耗越多的金钱"/>
+    <string key="tip_about_defense" value="单位和设施#同样能保护周边领土"/>
+    <string key="tip_hold_to_march" value="使用按住并进军#来快速移动单位"/>
+    <string key="tip_about_unit_death" value="如果国库金钱用完#单位将会死亡#所以请务必关注国库收支情况"/>
+    <string key="tip_merging" value="合并单位#将变得更强大"/>
+    <string key="tip_trees" value="树木会降低收入#所以最好把树木砍掉"/>
+    <string key="tip_help" value="更多细节#请看帮助"/>
+
+    <!-- Generic Tutorial -->
+    <string key="gen_greetings" value="Hi。这个教程将会解释游戏的规则。"/>
+    <string key="gen_select_province" value="点击你的城市来选中它"/>
+    <string key="gen_select_unit" value="太棒了。你有一些士兵，点选其中一个。"/>
+    <string key="gen_move_unit" value="每个单位每回合可以行动一次。现在，点击并占领所选单位旁边的领土。"/>
+    <string key="gen_income" value="通过占领领土你将获得更多的收入。越多的领土，越多的收入！"/>
+    <string key="gen_lets_build_farm" value="我们来新建一座农场来得到更多的收入。"/>
+    <string key="gen_press_button_twice" value="点击按钮两次"/>
+    <string key="gen_build_farm" value="农场仅能建在首都或者另一个农场旁边"/>
+    <string key="gen_about_farms" value="每个农场每回合产生3金币的收入。每个新农场的新建费用将是上一个农场新疆费用+2"/>
+    <string key="gen_lets_build_peasant" value="我们来招募一个士兵并占领旁边的领土。"/>
+    <string key="gen_press_button" value="点击下方的人型按钮"/>
+    <string key="gen_build_peasant" value="将你的士兵放置在边界上。"/>
+    <string key="gen_capture_peasant" value="现在，点选你的士兵并放置在你要占领的领土上来占领它。"/>
+    <string key="gen_capture_hex" value="占领更多的领土"/>
+    <string key="gen_lets_build_tower" value="你需要保卫你的领土。防御塔能很好的保卫周边的领土"/>
+    <string key="gen_build_tower" value="点击高亮的六边形来新建一个防御塔"/>
+    <string key="gen_about_towers" value="防御塔能使周边的六个领土免受农民和矛兵的入侵。"/>
+    <string key="gen_lets_build_spearman" value="矛兵比农民强大，我们来招募一个矛兵。"/>
+    <string key="gen_build_spearman" value="点击六边形来招募矛兵"/>
+    <string key="gen_units_consume_money" value="士兵需要金钱来维持，越强大的士兵需要越多的金钱。"/>
+    <string key="gen_undo_spearman" value="现在你的金钱收入降到了-1。这太糟糕了，所以我们撤销合并这个矛兵吧。"/>
+    <string key="gen_why_units_die" value="国库金钱用完后士兵将会死亡。所以要注意金钱是否足够以及收入是否为正。"/>
+    <string key="gen_about_trees_one" value="树木是个大问题。有树木的领土将不会产生收入。"/>
+    <string key="gen_about_trees_two" value="在树木数量不多的时候要尽快将树木砍伐掉。"/>
+    <string key="gen_end_turn" value="点击右下角的按钮来结束回合。"/>
+    <string key="gen_choose_to_merge" value="士兵可以被合并升级，现在选择一个农民。"/>
+    <string key="gen_merge_units" value="当农民被选中的时候，点击另一个农民来合并他们。"/>
+    <string key="gen_long_tap" value="如果你有大量的士兵，你可以通过长按来一次性移动他们。"/>
+    <string key="gen_several_provinces" value="你可以有多个城市，每个城市拥有独立的金钱系统。"/>
+
+    <!-- Tutorial help -->
+    <string key="help" value="帮助"/>
+    <string key="help_about_units" value="士兵"/>
+    <string key="help_about_trees" value="树木"/>
+    <string key="help_about_towers" value="防御塔"/>
+    <string key="help_about_money" value="金钱"/>
+    <string key="help_about_tactics" value="战术"/>
+
+    <string key="help_units_article" value="一共有四种士兵类型。
+        #他们的区别在于力量强度的不同。
+        #四种士兵强度排序如下：
+        #[1] 农民
+        #[2] 矛兵
+        #[3] 剑士
+        #[4] 骑士
+        #
+        #士兵能守卫周边领土。
+        #守卫能力根据来源自力量的强度。
+        #
+        #要占领一个领土
+        #士兵的力量必须
+        #大于守卫士兵的力量。
+        #
+        #士兵根据强度，分别消耗
+        #2, 6, 18 or 54 金币
+        #每回合
+        "/>
+
+    <string key="help_trees_article" value="树木将会生长在
+        #士兵死亡的地方。
+        #
+        #长着树木的领土无法得到金币。
+        #这意味着
+        #树木影响财政收入。
+        #
+        #你必须及时清除树木，
+        #否则树木会变多，
+        #并且摧毁你的财政。
+        #
+        #边界上的棕榈树
+        #长的非常快。
+        #你必须尽快砍伐掉它们，
+        #越快越好。
+        "/>
+
+    <string key="help_towers_article" value="防御塔用来保护
+        #周围的六格领土。
+        #
+        #防御塔提供等级 [2] 的防护。
+        #因此，只有剑士和骑士，
+        #可以摧毁它。
+        #
+        #农场提供等级 [1] 的防护。.
+        #
+        #在游戏初期，
+        #建造防御塔是保卫领土
+        #最好的方式。
+        #防御塔价格低廉，
+        #并且每回合不消耗金币。
+        "/>
+
+    <string key="help_money_article" value="财政收入取决于
+        #领土的数量。
+        #越多的领土能得到
+        #越多的财政收入。
+        #树木将会减少收入。
+        #
+        #士兵会消耗金币。
+        #越强大的士兵，
+        #消耗越多的金币。
+        #
+        #
+        #
+        #当你的金币用完了时候，
+        #士兵会死亡。
+        #
+        #金币收入显示在
+        #屏幕上方。
+        "/>
+
+    <string key="help_tactics_article" value="在游戏初期，
+        #要尽快占领周围的领土。
+        #然后，
+        #守卫好已占领的领土。
+        #
+        #在你招募新士兵的时候，
+        #要确保你的金币足够，
+        #并且收入为正。
+        #
+        #
+        #
+        #将敌军的领土
+        #切割成两半，
+        #将会摧毁敌军的财政。
+        "/>
+
+    <string key="about_complicated_mode_article" value="复杂的模式意味着
+        #更多的选择。
+        #跟简单模式的不同:
+        #
+        #- 更多的存档位置
+        #
+        #- 关卡重新开始需要确认
+        #
+        #- 显示势力的详细数据
+        #(按金币收入按钮)
+        "/>
+
+    <!-- Statistics -->
+    <string key="turns_made" value="经过回合数:"/>
+    <string key="units_died" value="士兵死亡数:"/>
+    <string key="units_produced" value="士兵招募数:"/>
+    <string key="money_spent" value="金币消耗数:"/>
+
+    <!-- Editor -->
+    <string key="editor" value="编辑器"/>
+    <string key="slot" value="存档位"/>
+    <string key="slots" value="保存存档"/>
+    <string key="import" value="导入"/>
+    <string key="export" value="导出"/>
+    <string key="empty" value="空白位"/>
+    <string key="play" value="开始游戏"/>
+    <string key="edit" value="编辑"/>
+    <string key="random" value="随机"/>
+    <string key="exported" value="粘贴板中的地图"/>
+    <string key="editor_clear" value="清楚"/>
+
+    <!-- Settings -->
+    <string key="main_label" value=" #自动保存
+            # #多存档位
+            # #询问回合结束
+            # #城市名称
+            # #音效"/>
+    <string key="skin" value="皮肤"/>
+    <string key="original" value="原始"/>
+    <string key="points" value="点状"/>
+    <string key="grid" value="格子"/>
+    <string key="anim_style" value="灵敏度"/>
+    <string key="more" value="更多"/>
+    <string key="camera_offset" value="镜头缩放"/>
+    <string key="slay_rules" value="Slay规则"/>
+</language>
